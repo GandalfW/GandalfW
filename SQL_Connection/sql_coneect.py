@@ -2,9 +2,9 @@ import mysql.connector
 import difflib
 
 con = mysql.connector.connect(
-    user="ardit700_student",
-    password="ardit700_student",
-    host="108.167.140.122",
+    user="xxxxxxx",
+    password="xxxxxxx",
+    host="100.000.000.000",
     database="ardit700_pm1database"
 )
 
